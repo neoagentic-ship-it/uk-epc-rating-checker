@@ -1,0 +1,17 @@
+{
+  "name": "uk-epc-checker",
+  "version": "1.0.0",
+  "description": "UK EPC Rating Checker & Energy Savings Estimator",
+  "main": "index.js",
+  "bin": {
+    "epc-lookup": "./cli.js"
+  },
+  "keywords": ["epc", "energy", "uk", "grants", "eco4", "insulation", "efficiency"],
+  "author": "UK Energy Tools",
+  "license": "MIT",
+  "homepage": "https://greatbritishenergy.com/eligibility-checker/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neoagentic-ship-it/uk-epc-rating-checker"
+  }
+}
